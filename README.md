@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Penetration Testing: Footprinting & Network Scanning
+# 🔐 Penetration Testing: Password cracking 
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
