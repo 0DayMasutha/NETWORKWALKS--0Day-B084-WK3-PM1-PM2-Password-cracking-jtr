@@ -44,7 +44,7 @@ This repository documents practical exercises completed during the **NetworkWalk
 3. **Verify Cracked Credentials:** Monitor progress until completion (`100%` cracked) and confirm the recovered password (`password1`).
 
 ### Evidence: Johnny Cracking Session
-![Johnny GUI Cracking PDF Hash](images/Screenshot%202026-11-20%20110428.png.jpg)
+![Networkwalks Cracking PDF Hash](hashcode.jpg)
 
 * **Target Format:** `PDF` (`$pdf$4*4*128*-106...`)
 * **Recovered Password:** `password1`
@@ -62,10 +62,10 @@ This repository documents practical exercises completed during the **NetworkWalk
 | **Persistence JTR Flag (`Cracked password.jpg`)** | `nw{networkwalks_persistence_jtr_270521}` | Persistence, wordlist selection, and security-tester mindset |
 
 ### Flag Screenshots
-* **Flag 1:** ![Flag 1 Captured](images/cracked%201.jpg)
-* **NetworkWalks Flag:** ![NetworkWalks Flag Captured](images/cracked%202.jpg)
-* **JTR Flag 1:** ![JTR Flag 1 Captured](images/Screenshot%202026-11-20%20123740.jpg)
-* **Persistence JTR Flag:** ![Cracked Password Flag](images/Cracked%20password.jpg)
+* **Flag 1:** ![Flag 1 Captured](cracked1.jpg)
+* **Flag 2:** ![Flag 2 Captured](cracked2.jpg)
+* **Flag 3:** ![Flag 3 Captured](cracked3.jpg)
+* **JTR :** ![Cracking Password](jtr.jpg)
 
 ---
 
