@@ -37,13 +37,13 @@ This repository documents practical exercises completed during the **NetworkWalk
 
 ---
 
-## 🔍 Practical Walkthrough: Cracking a Protected PDF with Johnny (JTR)
+## 🔍 Practical Walkthrough: Cracking a Protected PDF with Networkwalks tools
 
 1. **Extract / Load the Target Hash:** Load the target hash file into **Johnny** (the graphical frontend for John the Ripper), where the format is identified (e.g., `PDF` hash starting with `$pdf$4*4*128*...`).
 2. **Configure & Start the Attack:** Select the attack mode/wordlist and run the cracking session (`Start new attack` / `Guess password`).
 3. **Verify Cracked Credentials:** Monitor progress until completion (`100%` cracked) and confirm the recovered password (`password1`).
 
-### Evidence: Johnny Cracking Session
+### Evidence: Networkwalks Cracking Session
 ![Networkwalks Cracking PDF Hash](hashcode.jpg)
 
 * **Target Format:** `PDF` (`$pdf$4*4*128*-106...`)
