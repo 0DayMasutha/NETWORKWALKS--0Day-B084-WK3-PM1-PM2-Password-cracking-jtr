@@ -81,5 +81,4 @@ Pentester: Ampfarisaho Masutha
 
 ### 🌐 Connect With Me
 * **Program:** NetworkWalks Cybersecurity Internship
-  
-## 📷 Evidences & Terminal Execution Outputs
+
